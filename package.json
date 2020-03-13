@@ -1,0 +1,10 @@
+{
+  "name": "festjs",
+  "version": "1.0.0",
+  "description": "the progressive javascript web framework by Eser Ozvataf",
+  "main": "./src/nothing.js",
+  "repository": "git@github.com:eserozvataf/festjs.git",
+  "author": "Eser Ozvataf <eser@ozvataf.com>",
+  "license": "Apache-2.0",
+  "private": false
+}

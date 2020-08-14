@@ -1,5 +1,5 @@
 function nothing() {
-    return null;
+    return undefined;
 }
 
 module.exports = nothing;

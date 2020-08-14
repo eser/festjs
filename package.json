@@ -6,5 +6,8 @@
   "repository": "git@github.com:eserozvataf/festjs.git",
   "author": "Eser Ozvataf <eser@ozvataf.com>",
   "license": "Apache-2.0",
-  "private": false
+  "private": false,
+  "scripts": {
+    "test": "node test/index.js"
+  }
 }
